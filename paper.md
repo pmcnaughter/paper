@@ -13,3 +13,7 @@ Particle size was measured using a PCASP (Bloggs et al 2004).
 Jones at al (1998) conducted several studies in this region, but continential-scale measurements have not previously been made.
 
 A large uncertainty in the modelling BBOA is the extent to which measurements in the literature can be applied at a regional level.
+
+# Methology
+We compared out measurements of particle aging with a model simulation. 
+The model is detailed in Smith et al 2002.
