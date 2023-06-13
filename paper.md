@@ -2,8 +2,8 @@
 Aircraft measurments and simulations of biomass burning aerosols over West Africa
 
 # Author
-John Smith
-Gerard Capes
+John Smith, University of Somewhere Else
+Gerard Capes, University of Manchester
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
@@ -27,3 +27,4 @@ Figures go in teir own section in a draft paper.
 #Conclusions
 We have made fantastic insight into the BBOA aging process.
 Nonetheless, questions remain unanswered, so we should get some more funding.
+
