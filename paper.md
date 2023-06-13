@@ -1,8 +1,9 @@
 # Title
-Something Aging of biomass birning aerosols over West Africa
+Aircraft measurments and simulations of biomass burning aerosols over West Africa
 
 # Author
 Gerard Capes
+John Smith
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
