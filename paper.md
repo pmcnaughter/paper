@@ -1,5 +1,5 @@
 # Title
-Simulations of biomass burning aerosols over West Africa
+Aircraft measurments of of biomass burning aerosols over West Africa
 
 # Author
 Gerard Capes
